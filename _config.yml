@@ -11,9 +11,9 @@ email: minminjfu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am currently a PhD student at Harvard University.  This blog is a place for me to upload photos, thoughts, news, and update my friends on what I'm up to lately.  
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://minminfu.github.io" # the base hostname & protocol for your site
+twitter_username: minminfu
+github_username:  minminfu
 excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
