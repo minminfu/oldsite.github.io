@@ -4,6 +4,7 @@ title:  "First Blog Post of My Life"
 date:   2016-02-28 13:42:55 -0800
 categories: jekyll update
 ---
+
 This is massive swag.  Wazzup bros.  
 
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
